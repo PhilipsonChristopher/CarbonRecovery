@@ -13,7 +13,6 @@ dats$rate[i] <- (1/((1+ 0.05)^dats$t[i]))
 	}
 dats
 
-# Or what we are paying in interest..
 1/dats$rate # cumulative
 sum(dats$rate)
 
