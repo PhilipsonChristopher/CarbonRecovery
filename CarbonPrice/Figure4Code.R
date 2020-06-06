@@ -1,6 +1,6 @@
 ##########################################################################################
 #### Break even carbon price based depending cost of restoration #########################
-#### Estimate for a range of senarious ###################################################
+#### Estimate for a range of scenarios ###################################################
 ##########################################################################################
 
 # Install required packages (needs internet connection)
