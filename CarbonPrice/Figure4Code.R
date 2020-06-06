@@ -184,7 +184,6 @@ m2
 confint(m2)
 ######################################################
 
-37+7+17+10
 
 ###########################
 (cashLeg = cashLeg  + theme(plot.margin = unit(c(0.5, 0.5, 0, 0), "cm")))
@@ -204,7 +203,6 @@ confint(m2)
 
 
 setwd("")
-setwd("~/Google Drive/PApers In Prep/Carbon Recovery/Science2020/CarbonRecovery_Code4Git/CarbonPrice/")
 
 tiff(filename = "Fig4.tiff",width=15, height=15, units="cm",res=200,pointsize=8, compression="lzw")
 combined
