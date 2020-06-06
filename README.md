@@ -1,5 +1,5 @@
 # CarbonRecovery
-Code for paper - Active restoration accelerates the carbon recovery of human modified tropical forests
+## Code for paper - Active restoration accelerates the carbon recovery of human modified tropical forests
 
 
 The code for the analysing the forest plot data, and plotting associated Figure is in folder 'Fig1'
