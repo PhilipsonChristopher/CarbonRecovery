@@ -18,7 +18,7 @@ library(gridExtra)
 print(sessionInfo())
 
 getwd()
-setwd("~/Google Drive/PApers In Prep/Carbon Recovery/Science2020/CarbonRecovery_Code4Git/Fig1")
+setwd("") # set your working directory, location of folder containing data
 
 # Load plot data (DVFC_logged_forest_census_1996-2016.csv, from EIDC)
 data <- read.table('Philipson20_PlotData.csv')
@@ -186,14 +186,14 @@ labs(title="")+ theme(panel.grid.major.x = element_blank())
 (PrimaryReferenceF1 <- PrimaryReference + facet_grid(~FACE))
 
 
-#tiff(filename = 'Fig1.tiff',width=30, height=15, units="cm",res=300,pointsize=8, compression="lzw")
+# tiff(filename = 'Fig1.tiff',width=30, height=15, units="cm",res=300,pointsize=8, compression="lzw")
 grid.arrange(Fig1, PrimaryReferenceF1, nrow = 1, ncol=2, widths=c(6,0.8))
-#dev.off()
+# dev.off()
 
 
-#tiff(filename = 'FigS2.tiff',width=16, height=15, units="cm",res=300,pointsize=8, compression="lzw")
+# tiff(filename = 'FigS2.tiff',width=16, height=15, units="cm",res=300,pointsize=8, compression="lzw")
 grid.arrange(Fig_S2, PrimaryReference, nrow = 1, ncol=2, widths=c(3,0.6))
-#	
+# dev.off()
 
 
 ######################################
