@@ -6,7 +6,7 @@
 
 
 The code for the analysing the forest plot data, and plotting associated Figure is in folder 'Fig1'
-
+![Fig 1](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig1/Fig1.tiff)
 
 
 
