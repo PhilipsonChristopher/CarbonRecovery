@@ -13,8 +13,10 @@ The code for the analysing the airborne carbon map, and plotting associated Figu
 ![Fig 2](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig2/Fig2_lowRes.tiff)
 
 The code for the calculating the break even carbon price for our field site and plotting associated Figure 3 is in the folder 'CarbonPrice'
+
 <img src="https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig3.tiff" width="400" height="400">
 
 
 The code for the calculating the break even carbon price for a range of scenarios, and plotting Figure 4 is also in folder 'CarbonPrice'
+
 ![Fig 4](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig4.tiff)
