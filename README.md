@@ -11,6 +11,7 @@ The code for the analysing the forest plot data, and plotting associated Figure 
 
 
 The code for the analysing the airborne carbon map, and plotting associated Figure is in folder 'Fig2'
+![Fig 2](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig2/Fig2_lowRes.tiff)
 
 The code for the calculating the break even carbon price, and plotting associated Figures (3 & 4) is in folder 'CarbonPrice'
 ![Fig 4](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig4.tiff)
