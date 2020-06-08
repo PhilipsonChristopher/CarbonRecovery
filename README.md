@@ -15,7 +15,7 @@ The code for the analysing the forest plot data, and plotting associated Figure 
 
 The code for the analysing the airborne carbon map, and plotting associated Figure is in the folder [Fig2](https://github.com/PhilipsonChristopher/CarbonRecovery/blob/master/Fig2)
 
-![Fig 2](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig2/Fig2_lowRes.tiff)
+![Fig 2](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig2/Fig2.png)
 
 
 
