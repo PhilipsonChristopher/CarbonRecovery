@@ -47,7 +47,7 @@ str(Logged)
 
 m1 <- lmer(ACD~  YearsSinceLogging  * FACE + (1|Plot)  + (1|LoggingMethod:Coupe) , REML=1 , data=Logged , na.action=na.fail) 
 dotplot(ranef(m1, condVar=T))$Plot
-dotplot(ranef(m1, condVar=T))$'LoggingMethod:Coupe'
+dotplot(ranef(m1, condVar=T))$'LoggingMethod:Coupe'
 anova(m1)
 summary(m1)
 confint(m1)
