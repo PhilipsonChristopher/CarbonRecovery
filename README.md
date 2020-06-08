@@ -26,4 +26,4 @@ The code for the calculating the break even carbon price for our field site and 
 
 The code for the calculating the break even carbon price for a range of scenarios, and plotting Figure 4 is also in folder [CarbonPrice](https://github.com/PhilipsonChristopher/CarbonRecovery/blob/master/CarbonPrice)
 
-![Fig 4](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig4.tiff)
+![Fig 4](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig4.png)
