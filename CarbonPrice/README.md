@@ -5,7 +5,7 @@ For use or developements of [Figure3Code.R](https://raw.githubusercontent.com/Ph
 
 For  calculating the break even carbon price for our field site and plotting associated Figure 3 see [Figure3Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure3Code.R), no seperate files required
 
-<img src="https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig3.tiff" width="400" height="400">
+<img src="https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig3.png" width="400" height="400">
 
 
 For the calculating the break even carbon price for a range of scenarios, and plotting Figure 4 see [Figure4Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure4Code.R), no seperate files required
