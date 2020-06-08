@@ -10,5 +10,5 @@ For  calculating the break even carbon price for our field site and plotting ass
 
 For the calculating the break even carbon price for a range of scenarios, and plotting Figure 4 see [Figure4Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure4Code.R), no seperate files required
 
-![Fig 4](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig4.tiff)
+![Fig 4](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig4.png)
 
