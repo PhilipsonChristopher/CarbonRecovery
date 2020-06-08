@@ -202,7 +202,8 @@ confint(m2)
 (combined = plot_grid(CostDensityNoAxis, cashLeg, ncol = 1, rel_heights = c(1, 3)))
 
 
-setwd("")
+# setwd("") # Specify where you would like the file
+getwd() # location where you will save if you dont alter working directory
 
 tiff(filename = "Fig4.tiff",width=15, height=15, units="cm",res=200,pointsize=8, compression="lzw")
 combined
