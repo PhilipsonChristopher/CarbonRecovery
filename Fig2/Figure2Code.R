@@ -26,7 +26,7 @@ print(sessionInfo())
 
 
 # Set your working directory
-setwd("~/Google Drive/PApers In Prep/Carbon Recovery/Science2020/CarbonRecovery_Code4Git/Fig2/")
+setwd("")
 # Files Needed in this folder:
 # 'ALLCoupes' indicates logged forest study area
 # 'Danum' indicates conservation area
