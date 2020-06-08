@@ -4,13 +4,13 @@ repos <- "https://stat.ethz.ch/CRAN/"
 
 
 # Install packages once then has out
-install.packages("raster", repos= repos, dependencies=TRUE)
-install.packages("rgeos", repos= repos, dependencies=TRUE)
-install.packages("viridis", repos= repos, dependencies=TRUE)
-install.packages("lme4", repos= repos, dependencies=TRUE)
-install.packages("ggplot2", repos= repos, dependencies=TRUE)
-install.packages("lattice", repos= repos, dependencies=TRUE)
-install.packages("ggbeeswarm", repos= repos, dependencies=TRUE)
+# install.packages("raster", repos= repos, dependencies=TRUE)
+# install.packages("rgeos", repos= repos, dependencies=TRUE)
+# install.packages("viridis", repos= repos, dependencies=TRUE)
+# install.packages("lme4", repos= repos, dependencies=TRUE)
+# install.packages("ggplot2", repos= repos, dependencies=TRUE)
+# install.packages("lattice", repos= repos, dependencies=TRUE)
+# install.packages("ggbeeswarm", repos= repos, dependencies=TRUE)
 # install.packages("grid", repos= repos, dependencies=TRUE)
 
 library(raster)
