@@ -234,6 +234,7 @@ plot(CoupePrimary) ## slight 'spillage' at boundary removed later
 Planting@data
 Planting@data$SP_ID <- as.numeric(Planting@data$SP_ID)
 Restored  <- rasterize(Planting, GAO_Map, 'SP_ID', max) # max PLANTING_Y
+# If warning crs comment is lost, can ignore
 
 RestoredACD = mask(crop(GAO_Map, Restored), Restored)
 plot(RestoredACD) ## 
@@ -332,8 +333,8 @@ mem1 <- lmer(ACD ~ treatment + (1|Coupe), data= Dat)
 dotplot(ranef(mem1, condVar=TRUE))
 mem1 ## We report this model in manuscript
 round(fixef(mem1))
-135+29
-135+59
+135+29 # restored estimate
+135+59 # primary estimate
 
 ############################################################################
 #### infered Lidar growth rates - Final revisions end May2020
@@ -425,7 +426,7 @@ pvar1 <- diag(mm %*% tcrossprod(vcov(mem1),mm))
 NEWDAT[,c(2:4)] <- round(NEWDAT[,c(2:4)])
 NEWDAT
 
-## requires more memory to run
+## requires more memory to run than above, similar estimates
 # m1_mer <- bootMer(mem1,  nsim=1000, FUN=fixef, ncpus=8)
 # round(fixef(mem1),1) 
 # round(apply(m1_mer$t, 2, quantile, c(0.025, 0.975)), 1)
