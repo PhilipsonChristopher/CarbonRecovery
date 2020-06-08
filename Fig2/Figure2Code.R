@@ -408,7 +408,7 @@ scale_y_continuous(limits=c(0, 400), expand = c(0, 0),name=expression(paste("\nA
 theme_bw()+
 theme(axis.text = element_text(size = 10, colour = "black"))+
 theme(axis.text.y.right = element_text(margin = margin(t = 10, r = 10, b = 10, l = 5)),legend.position = "none")
-# Swarm
+# Swarm # a long time to plot
 
 
 ### 1. Add predictions from model (mem1) to the plot
@@ -443,6 +443,7 @@ SwarmMeans <- Swarm + geom_pointrange(data= NEWDAT, mapping=aes(x= treatment, y=
 
 
 ## Plot next to map
+# Takes quite some time to plot
 #tiff(filename = 'Fig2.1.tiff',width=22.3, height=12, units="cm",res=300,pointsize=8, compression="lzw")
 vp.BottomRight <- viewport(height=unit(0.85, "npc"), width=unit(0.45, "npc"), 
                            just=c("left","center"), 
