@@ -3,10 +3,7 @@ This folder contains two code files for plotting Figure 3 and Figure 4
 
 For use or developements of [Figure3Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure3Code.R) or [Figure4Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure4Code.R) for the figure or analysis please cite [![DOI](https://zenodo.org/badge/266838510.svg)](https://zenodo.org/badge/latestdoi/266838510)
 
-[Figure3Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure3Code.R), no seperate files required
-
-
-The code for the calculating the break even carbon price for our field site and plotting associated Figure 3 is in the folder [CarbonPrice](https://github.com/PhilipsonChristopher/CarbonRecovery/blob/master/CarbonPrice)
+For  calculating the break even carbon price for our field site and plotting associated Figure 3 see [Figure3Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure3Code.R), no seperate files required
 
 <img src="https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig3.tiff" width="400" height="400">
 
