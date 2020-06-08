@@ -6,6 +6,8 @@
 
 [![DOI](https://zenodo.org/badge/266838510.svg)](https://zenodo.org/badge/latestdoi/266838510)
 
+
+[./figs/readme.md]
 The code for the analysing the forest plot data, and plotting associated Figure is in the folder 'Fig1'
 ![Fig 1](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig1/Fig1.tiff)
 
