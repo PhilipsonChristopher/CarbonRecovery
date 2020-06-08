@@ -8,9 +8,7 @@ For  calculating the break even carbon price for our field site and plotting ass
 <img src="https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig3.tiff" width="400" height="400">
 
 
-The code for the calculating the break even carbon price for a range of scenarios, and plotting Figure 4 is also in folder [CarbonPrice](https://github.com/PhilipsonChristopher/CarbonRecovery/blob/master/CarbonPrice)
+For the calculating the break even carbon price for a range of scenarios, and plotting Figure 4 see [Figure4Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure4Code.R), no seperate files required
 
 ![Fig 4](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Fig4.tiff)
 
-
-[Figure4Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/CarbonPrice/Figure4Code.R), no seperate files required
