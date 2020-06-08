@@ -9,7 +9,7 @@
 
 
 
-The code for the analysing the forest plot data, and plotting associated Figure is in the folder[./Fig1/Readme.md](https://github.com/PhilipsonChristopher/CarbonRecovery/blob/master/Fig1/Readme.md)
+The code for the analysing the forest plot data, and plotting associated Figure is in the folder[./Fig1](https://github.com/PhilipsonChristopher/CarbonRecovery/tree/master/Fig1)
 ![Fig 1](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig1/Fig1.tiff)
 
 
