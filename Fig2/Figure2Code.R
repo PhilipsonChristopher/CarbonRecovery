@@ -265,6 +265,34 @@ plot(RestoredACD, add=T, legend=F)
 plot(PrimaryACD, add=T, legend=F)
 
 
+
+#### Compare average distances to primary forest, Page 24, lines 9-10
+# ref: https://gis.stackexchange.com/questions/233443/finding-distance-between-raster-pixels-and-line-features-in-r
+
+p = as(RestoredACD,"SpatialPoints")
+d1 = gDistance(p, Primary, byid=TRUE)
+round(mean(d1[1,]))
+# 5703
+
+distRest <- lm(d1[1,] ~ 1)
+round(coef(distRest)/1000,2)
+round(confint(distRest)/1000, 2)
+
+p = as(NaturalRegenACD,"SpatialPoints")
+d2 = gDistance(p, Primary, byid=TRUE)
+round(mean(d2[1,]))
+#[1] 7827
+
+distNat <- lm(d2[1,] ~ 1)
+round(coef(distNat)/1000,2)
+round(confint(distNat)/1000, 2)
+
+
+par(mfrow=c(2,1))
+plot(density(d1/1000), main="Distance from restored forest to primary forest (km)")
+plot(density(d2/1000), main="Distance to natural regeneration to forest primary forest (km)")
+
+
 ##########################################
 ##### Analysis & Violin plots  	##########
 ##########################################
