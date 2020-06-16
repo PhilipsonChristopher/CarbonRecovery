@@ -1,7 +1,7 @@
 # Carbon Recovery
 <br>
 
-## Code for manuscript - Active restoration accelerates the carbon recovery of human modified tropical forests
+## Code for manuscript - Active restoration accelerates the carbon recovery of human-modified tropical forests
 <br>
 
 [![DOI](https://zenodo.org/badge/266838510.svg)](https://zenodo.org/badge/latestdoi/266838510)
