@@ -2,6 +2,8 @@
 
 This folder contains all data, shapefiles and code for analysing the airborne LiDAR derived carbon map in Asner _et al_ (2018), and plotting associated Figure. For use or developements of [Figure2Code.R](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig2/Figure2Code.R) for the figure or analysis please cite [![DOI](https://zenodo.org/badge/266838510.svg)](https://zenodo.org/badge/latestdoi/266838510)
 
+Any use of this data should also state : "The forest carbon map was derived from Global Airborne Observatory data of the Arizona State University's Center for Global Discovery and Conservation Science."
+
 ![Fig 2](https://raw.githubusercontent.com/PhilipsonChristopher/CarbonRecovery/master/Fig2/Fig2_lowRes.tiff)
 
 
