@@ -425,7 +425,6 @@ round(((129 - 41) / 27.23), 1)
 ### Violin plots 
 ######################################
 head(Dat)
-# tiff(filename = "~/Google Drive/Papers In Prep/Carbon Recovery/SwarmInferno.tiff",width=24, height=12, units="cm",res=300,pointsize=8, compression="lzw")
 
 Dat$treatment <- factor(Dat$treatment, levels=c("Natural regeneration", "Active restoration", "Primary forest"))
 levels(Dat$treatment)
