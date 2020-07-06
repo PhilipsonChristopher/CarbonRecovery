@@ -10,5 +10,5 @@ The data is available via [EIDC](https://doi.org/10.5285/a75e6371-a931-4676-9199
 
 Philipson, C.D. (2020). Code for manuscript - Active restoration accelerates the carbon recovery of human-modified tropical forests. GitHub 'CarbonRecovery' Repository (Version v1.0). Zenodo [10.5281/zenodo.3899832](https://doi.org/10.5281/zenodo.3885628)
 
-Cutler, M.E.J.; Philipson, C.D.; Burslem, D.F.R.P.; Foody, G.M.; Lincoln, P.; Pinard, M.A.; Snoep, M.; Wheeler, C.E.; Tangki H.; Wai, Y.S. (2020). Aboveground carbon density plots from a logged forest, Danum Valley, Borneo, 1992-2016. NERC Environmental Information Data Centre. https://doi.org/10.5285/a75e6371-a931-4676-9199-d1f5af565ab2
+Cutler, M.E.J., Philipson, C.D., Burslem, D.F.R.P., Foody, G.M.; Lincoln, P., Pinard, M.A.; Snoep, M., Wheeler, C.E., Tangki H., Wai, Y.S. (2020). Aboveground carbon density plots from a logged forest, Danum Valley, Borneo, 1992-2016. NERC Environmental Information Data Centre. https://doi.org/10.5285/a75e6371-a931-4676-9199-d1f5af565ab2
 
